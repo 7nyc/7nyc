@@ -11,7 +11,7 @@
 > They fear the looser!
 
 ```
-<img src="" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+<img src="" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="" width="250" height="260">
 
 ```py
 
