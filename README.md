@@ -1,47 +1,9 @@
-<p align='center'>
-  <b>Hi 👋, I'm looser</b><br>
-  <a href="https://discord.gg/aBVmH2faj8">Discord</a> |
-  <a href="https://www.youtube.com/channel/7nyco">YouTube</a> |
-  <a href="https://fir3.cc/looserz">Web</a> |
 
-
-
-```bash
-
-> They fear the looser!
-
-```
-<img src="https://cdn.discordapp.com/attachments/1218409287693369476/1220889067206606939/dogs.gif?ex=6610948c&is=65fe1f8c&hm=0b6846bf1edd1830e9ed0f373384015cf3e50b4840d9734c0056ca6cc834b1a1&" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
-
-```py
-
-
-looser @github
-----------------
-
-Languages  :  c# - - py
-
-33 style
-
-  
-```
-
-
-
-
-
-
-
-
-
-
-------------												
-- <p align="center"> Hi, I’m @looser
-
------------------
-
-<!---
-looser Web/looser Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center">
+   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
+  <br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7nyc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7nycs&layout=compact&langs_count=7&theme=tokyonight"
+</div>
+ <div style="display: inline_block"><br>
